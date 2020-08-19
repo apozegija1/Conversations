@@ -1,0 +1,6 @@
+[submodule "Conversations-Frontend"]
+	path = Conversations-Frontend
+	url = https://github.com/apozegija1/Conversations-Frontend.git
+[submodule "Conversations-Backend"]
+	path = Conversations-Backend
+	url = https://github.com/apozegija1/Conversations-Backend.git
