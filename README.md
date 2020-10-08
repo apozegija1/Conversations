@@ -1,5 +1,6 @@
 # Internship project - Conversations
 
+Application for contact center with main focus on communication between users using SMS and Web rts Infobip cnahhels.
 
 To clone run command `git clone --recurse-submodules`<br/>
 To update submodules run `git pull --recurse-submodules`<br/> or 
